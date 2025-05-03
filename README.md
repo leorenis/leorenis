@@ -2,9 +2,9 @@
 I'm a Brazilian developer who loves technology and music. This is one of my favorite places on the internet. Most of the time, I'm experimenting, building samples, and testing new approaches. I also document a lot of my learning and progress in my 🔭 [logbook](https://github.com/leorenis/logbook)✨. I'm naturally curious, but I tend to forget the details — that's why I write things down (_Lol_ 😅).
 
 You can find me here:
-📫 [@leorenis](https://x.com/_leorenis)
-🔗 [@leorenis](https://www.linkedin.com/in/leorenis)
-🎧 [My last playlist](https://music.youtube.com/playlist?list=PLbrFa2aEmhSUJjMgWJwEyphJHQGdmiWKz&si=zAJnprs-vS7ZB1r-)
+- 📫 [@leorenis](https://x.com/_leorenis)
+- 🔗 [@leorenis](https://www.linkedin.com/in/leorenis)
+- 🎧 [My last playlist](https://music.youtube.com/playlist?list=PLbrFa2aEmhSUJjMgWJwEyphJHQGdmiWKz&si=zAJnprs-vS7ZB1r-)
 
 <!--
 **leorenis/leorenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
