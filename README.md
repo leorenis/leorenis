@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, Welcome! 👋
+This is one of my favorite places on the internet. Most of the time, I'm experimenting, building samples, and testing new approaches. I also document a lot of my learning and progress in my 🔭 [logbook](https://github.com/leorenis/logbook)✨. I'm naturally curious, but I tend to forget the details — that's why I write things down (_Lol_ 😅).
+
+You guys can find me here:
+
+- *X*: [@leorenis](https://x.com/_leorenis) ⚡
+- *Linkedin*: [@leorenis](https://www.linkedin.com/in/leorenis) 💬
 
 <!--
 **leorenis/leorenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
