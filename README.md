@@ -1,5 +1,5 @@
 ## Hi there, welcome! 👋
-Developer who’s passionate about technology and music. I love experimenting with new ideas, building samples, and trying different approaches. To keep track of my learning, I use to write in my 🔭 [logbook](https://github.com/leorenis/logbook)✨. I'm curious, but I tend to forget things — that's why I write things down (_Lol_ 😅).
+Developer who’s passionate about technology and music. I love experimenting with new ideas, building samples and trying different approaches. To keep track of my learning, I use to write in my 🔭 [logbook](https://github.com/leorenis/logbook)✨. I'm curious, but I tend to forget things — that's why I write things down (_Lol_ 😅).
 
 You can find me here:
 - ✉️ leorenis@gmail.com;
